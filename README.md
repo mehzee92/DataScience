@@ -1,5 +1,5 @@
 # DataScience
-- This is my data science work
+This is my data science work
 ##  What I have to Study
 *  Basic of Statistics
 *  Basic of Data Science
