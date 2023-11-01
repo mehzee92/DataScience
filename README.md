@@ -1,5 +1,6 @@
 # DataScience
 This is my data science work
+
 ##  What I have to Study
 *  Basic of Statistics
 *  Basic of Data Science
@@ -9,4 +10,7 @@ This is my data science work
 *  Basic of Python
 *  Machine Learning Basics
 *  Deep Learning Basics
-*  Flask
+*  Flask Framework
+*  Numpy
+*  Pandas
+*  Scikit-Learn
