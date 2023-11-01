@@ -7,3 +7,5 @@
 *  Basic of Excel
 *  Basic Data Analysis
 *  Basic of Python
+*  Machine Learning Basics
+*  Deep Learning Basics
